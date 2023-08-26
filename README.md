@@ -1,5 +1,5 @@
 # Clinic-Management-System
-I developed a clinic management system using C language, During this project, I utilized Notepad++ and the GCC Compiler for compiling. To ensure the project's robustness
+I developed a clinic management system using C language by Linked-list (dynamic memory allocation), During this project, I utilized Notepad++ and the GCC Compiler for compiling. To ensure the project's robustness
 Upon launching the system, users are prompted to select between two modes: admin mode and user mode.
 
 In admin mode:
